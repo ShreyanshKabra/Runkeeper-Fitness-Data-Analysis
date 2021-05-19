@@ -1,5 +1,5 @@
 # Runkeeper-Fitness-Data-Analysis
-This repository contains a ipynb file and data set to be analyzed using python modules.
-Data set:- cardioActivities
-The data set contain fitness data of a person from Runkeeper app of 6 years from 2012-2018.
-In ipynb file the data set has to be imported, preprocessed, cleaned, visulaized and prediction of stats.
+With the explosion in fitness tracker popularity, runners all of the world are collecting data with gadgets (smartphones, watches, etc.) to keep themselves motivated.This project is based on seven years of training data of a person.
+This repository contains an ipynb file and the data set that has to be analyzed using python modules.
+I have done data preprocessing,cleaning,EDA o find out certain details about the training
+intensity and progress development using python's statsmodels,numpy,matplotlib and pandas library.
